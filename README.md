@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **aemnub**.\
+
+Saya seorang **Mahasiswa** di ...\
+
+Saya mempunyai hobi mendengarkan musik 24/7
+
 <!--
 **aemnub/aemnub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
